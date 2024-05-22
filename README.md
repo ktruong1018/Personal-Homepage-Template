@@ -1,2 +1,2 @@
 # About
-HTML file of personal homepage containing dropdowns to bookmarks
+Template HTML file of personal homepage containing dropdowns to bookmarks. Modify the links to user preference.
